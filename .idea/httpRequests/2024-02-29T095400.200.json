@@ -1,0 +1,15 @@
+{
+  "code": "200",
+  "message": "success",
+  "data": {
+    "id": 1,
+    "payNo": "swagger3string",
+    "orderNo": "swagger3string",
+    "userId": 0,
+    "amount": 0.00,
+    "deleted": 0,
+    "createTime": "2024-02-27 22:26:45",
+    "updateTime": "2024-02-28 19:11:07"
+  },
+  "timestamp": 1709171640360
+}
